@@ -7,749 +7,713 @@ module.exports = {
    */
   QUESTIONS_EN_GB: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
-      ],
+      "What was the name of Mr. Crouch's house elf?": [
+        "Winky",
+        "Blinky",
+        "Slinky",
+        "Dobby"
+      ]
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
-      ],
+      "Who is the teacher who Harry thinks is working with Voldemort?": [
+        "Snape",
+        "Quirrell",
+        "Sprout",
+        "McGonagall"
+      ]
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
-      ],
+      " Who taught History of Magic?": [
+        "Professor Binns",
+        "Professor Sinistra",
+        "Professor Flitwick",
+        "Professor Lupin"
+      ]
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
-      ],
+      "What happens to Professor Lockhart?": [
+        "He loses his memory",
+        "He dies",
+        "He runs away",
+        "He is fired"
+      ]
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
-      ],
+      " In which year (1-7) did Harry go on his first date with Cho Chang?": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ]
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
-      ],
+      "What did Dumbledore leave to Ron in his will? ": [
+        "The Deluminator",
+        "Fawkes the Phoenix",
+        "The golden snitch",
+        "The Tales of Beedle the Bard"
+      ]
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
+      "How old was Voldemort when he opened the Chamber of Secrets?": [
+        "16 years",
+        "17 years",
+        "18 years",
+        "21 years"
+      ]
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
+      "Who was the master of the Elder Wand prior to Harry?": [
+        "Draco Malfoy",
+        "Minerva McGonagall",
+        "Severus Snape",
+        "Lord Voldemort"
+      ]
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
+      "The group The Marauders were made up of Hogwarts students. Which of the options was James Potters nickname and Animagus form?": [
+        "Prongs, Stag",
+        "Potty, Llama",
+        "Hooves, Donkey",
+        "Moosey, Elk"
+      ]
     },
     {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
+      "Which of these options was Peter Pettigrews nickname and Animagus form?": [
+        "Wormtail, Rat",
+        "Spaghettiback, Mouse",
+        "Fur-ears, Bat",
+        "Smallsnout, Chinchilla"
+      ]
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
+      "What colour are Harry Potters eyes?": ["Green", "Blue", "Black", "Brown"]
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
-        'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
-      ],
+      "What was Remus Lupins nickname and Animagus form?": [
+        "Moony, Werewolf",
+        "Howly, Grey Wolf",
+        "Moony, Grey Wolf",
+        "Howly, Werewolf"
+      ]
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
-      ],
+      "What is the name of Ron and Hermione's daughter?": [
+        "Rose",
+        "Lily",
+        "Cardi",
+        "Hugo"
+      ]
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
+      "What is the name of Ron and Hermione's son?": [
+        "Hugo",
+        "Ron Junior",
+        "Remus",
+        "Neville"
+      ]
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
+      "Which is the house ghost of Hufflepuff?": [
+        "The Fat Friar",
+        "The Bloody Baron",
+        "The Grey Lady",
+        "Nearly Headless Nick"
+      ]
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
+      "Which champion is the only one to die in the 1994-1995 Triwizard Tournament?": [
+        "Cedric Diggory",
+        "Harry Potter",
+        "Fleur Delacour",
+        "Viktor Krum"
+      ]
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
+      "Who was NOT a member of the 'Slug Club'?": [
+        "Ron",
+        "Harry",
+        "Hermione",
+        "Melinda"
+      ]
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
+      "Which type of magical creature carries Sirius Black away from Hogwarts?": [
+        "Hippogriff",
+        "Thestral",
+        "Unicorn",
+        "Dragon"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
+      "Which is NOT a shop in Diagon Alley?": [
+        "Honeydukes",
+        "Madam Malkin's Robes for All Occasions",
+        "Flourish & Blott's",
+        "Eeylops Owl Emporium"
+      ]
     },
     {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
-      ],
+      "Which of the following is NOT a protection for the Philosopher's (Sorcerer's) Stone?": [
+        "Cornish Pixies",
+        "Wizard's Chess ",
+        "Devil's Snare",
+        "Mirror of Erised"
+      ]
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
-        'Candlestick maker',
-      ],
+      "Which of the following was NOT a Death Eater?": [
+        "Bathilda Bagshot",
+        "Lucius Malfoy",
+        "Draco Malfoy",
+        "Bellatrix Lestrange"
+      ]
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
-      ],
+      "How many broomsticks are flown in a full game of Quidditch?": [
+        "15",
+        "16",
+        "18",
+        "25"
+      ]
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
-      ],
+      "Which Polyjuice Potion ingredients must be acquired at the full moon?": [
+        "Fluxweed",
+        "Knotgrass",
+        "A bit of whoever you wish to turn into",
+        "Newt spleen"
+      ]
     },
     {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
-      ],
+      "Before using the Firebolt gifted to him in The Prisoner of Azkaban, Harry Potter flew on which of these broomstick models?": [
+        "Nimbus 2000",
+        "Cleansweep Eleven",
+        "Moontrimmer",
+        "Thunderbolt VII"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
+      "The Goblins of Gringotts Wizarding Bank navigate the vaults of their establishment using which of these modes of transportation?": [
+        "Mine cart",
+        "Elevator",
+        "Magic carpet",
+        "Monorail"
+      ]
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
-      ],
+      "What person from the Wizarding World does Harry discover living just down the road?": [
+        "Mrs. Figg",
+        "Tonks",
+        "Filch",
+        "Susan Bones"
+      ]
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
-      ],
+      "Floo Powder, as a substance, allows users to travel by which means (as seen in The Chamber of Secrets)?": [
+        "Through fireplaces",
+        "Inside animals",
+        "n the wind",
+        "Through the sewers"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
+      "Who or what attacks Ron in the Ministry of Magic?": [
+        "a brain",
+        "a Time-turner",
+        "Bellatrix",
+        "Dolohov"
+      ]
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
-      ],
+      "The Knight Bus, used by Harry in The Prisoner of Azkaban, contains how many levels?": [
+        "3",
+        "2",
+        "5",
+        "1"
+      ]
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
-      ],
-    },
+      "Half eagle and half horse, what creature is ridden by Harry and Hermione in The Prisoner of Azkaban after saving its life?": [
+        "Hippogriff",
+        "Centaur",
+        "Dragon",
+        "Griffin"
+      ]
+    }
   ],
   QUESTIONS_EN_US: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
-      ],
+      "What was the name of Mr. Crouch's house elf?": [
+        "Winky",
+        "Blinky",
+        "Slinky",
+        "Dobby"
+      ]
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
-      ],
+      "Who is the teacher who Harry thinks is working with Voldemort?": [
+        "Snape",
+        "Quirrell",
+        "Sprout",
+        "McGonagall"
+      ]
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
-      ],
+      " Who taught History of Magic?": [
+        "Professor Binns",
+        "Professor Sinistra",
+        "Professor Flitwick",
+        "Professor Lupin"
+      ]
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
-      ],
+      "What happens to Professor Lockhart?": [
+        "He loses his memory",
+        "He dies",
+        "He runs away",
+        "He is fired"
+      ]
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
-      ],
+      " In which year (1-7) did Harry go on his first date with Cho Chang?": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ]
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
-      ],
+      "What did Dumbledore leave to Ron in his will? ": [
+        "The Deluminator",
+        "Fawkes the Phoenix",
+        "The golden snitch",
+        "The Tales of Beedle the Bard"
+      ]
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
+      "How old was Voldemort when he opened the Chamber of Secrets?": [
+        "16 years",
+        "17 years",
+        "18 years",
+        "21 years"
+      ]
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
+      "Who was the master of the Elder Wand prior to Harry?": [
+        "Draco Malfoy",
+        "Minerva McGonagall",
+        "Severus Snape",
+        "Lord Voldemort"
+      ]
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
+      "The group The Marauders were made up of Hogwarts students. Which of the options was James Potters nickname and Animagus form?": [
+        "Prongs, Stag",
+        "Potty, Llama",
+        "Hooves, Donkey",
+        "Moosey, Elk"
+      ]
     },
     {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
+      "Which of these options was Peter Pettigrews nickname and Animagus form?": [
+        "Wormtail, Rat",
+        "Spaghettiback, Mouse",
+        "Fur-ears, Bat",
+        "Smallsnout, Chinchilla"
+      ]
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
+      "What colour are Harry Potters eyes?": ["Green", "Blue", "Black", "Brown"]
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
-        'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
-      ],
+      "What was Remus Lupins nickname and Animagus form?": [
+        "Moony, Werewolf",
+        "Howly, Grey Wolf",
+        "Moony, Grey Wolf",
+        "Howly, Werewolf"
+      ]
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
-      ],
+      "What is the name of Ron and Hermione's daughter?": [
+        "Rose",
+        "Lily",
+        "Cardi",
+        "Hugo"
+      ]
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
+      "What is the name of Ron and Hermione's son?": [
+        "Hugo",
+        "Ron Junior",
+        "Remus",
+        "Neville"
+      ]
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
+      "Which is the house ghost of Hufflepuff?": [
+        "The Fat Friar",
+        "The Bloody Baron",
+        "The Grey Lady",
+        "Nearly Headless Nick"
+      ]
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
+      "Which champion is the only one to die in the 1994-1995 Triwizard Tournament?": [
+        "Cedric Diggory",
+        "Harry Potter",
+        "Fleur Delacour",
+        "Viktor Krum"
+      ]
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
+      "Who was NOT a member of the 'Slug Club'?": [
+        "Ron",
+        "Harry",
+        "Hermione",
+        "Melinda"
+      ]
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
+      "Which type of magical creature carries Sirius Black away from Hogwarts?": [
+        "Hippogriff",
+        "Thestral",
+        "Unicorn",
+        "Dragon"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
+      "Which is NOT a shop in Diagon Alley?": [
+        "Honeydukes",
+        "Madam Malkin's Robes for All Occasions",
+        "Flourish & Blott's",
+        "Eeylops Owl Emporium"
+      ]
     },
     {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
-      ],
+      "Which of the following is NOT a protection for the Philosopher's (Sorcerer's) Stone?": [
+        "Cornish Pixies",
+        "Wizard's Chess ",
+        "Devil's Snare",
+        "Mirror of Erised"
+      ]
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
-        'Candlestick maker',
-      ],
+      "Which of the following was NOT a Death Eater?": [
+        "Bathilda Bagshot",
+        "Lucius Malfoy",
+        "Draco Malfoy",
+        "Bellatrix Lestrange"
+      ]
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
-      ],
+      "How many broomsticks are flown in a full game of Quidditch?": [
+        "15",
+        "16",
+        "18",
+        "25"
+      ]
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
-      ],
+      "Which Polyjuice Potion ingredients must be acquired at the full moon?": [
+        "Fluxweed",
+        "Knotgrass",
+        "A bit of whoever you wish to turn into",
+        "Newt spleen"
+      ]
     },
     {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
-      ],
+      "Before using the Firebolt gifted to him in The Prisoner of Azkaban, Harry Potter flew on which of these broomstick models?": [
+        "Nimbus 2000",
+        "Cleansweep Eleven",
+        "Moontrimmer",
+        "Thunderbolt VII"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
+      "The Goblins of Gringotts Wizarding Bank navigate the vaults of their establishment using which of these modes of transportation?": [
+        "Mine cart",
+        "Elevator",
+        "Magic carpet",
+        "Monorail"
+      ]
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
-      ],
+      "What person from the Wizarding World does Harry discover living just down the road?": [
+        "Mrs. Figg",
+        "Tonks",
+        "Filch",
+        "Susan Bones"
+      ]
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
-      ],
+      "Floo Powder, as a substance, allows users to travel by which means (as seen in The Chamber of Secrets)?": [
+        "Through fireplaces",
+        "Inside animals",
+        "n the wind",
+        "Through the sewers"
+      ]
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
+      "Who or what attacks Ron in the Ministry of Magic?": [
+        "a brain",
+        "a Time-turner",
+        "Bellatrix",
+        "Dolohov"
+      ]
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
-      ],
+      "The Knight Bus, used by Harry in The Prisoner of Azkaban, contains how many levels?": [
+        "3",
+        "2",
+        "5",
+        "1"
+      ]
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
-      ],
-    },
+      "Half eagle and half horse, what creature is ridden by Harry and Hermione in The Prisoner of Azkaban after saving its life?": [
+        "Hippogriff",
+        "Centaur",
+        "Dragon",
+        "Griffin"
+      ]
+    }
   ],
-  QUESTIONS_DE_DE: [
+  QUESTIONS_EN_IN: [
     {
-      'Rentiere haben ein sehr dickes Fell, Wie viele Haare pro Quadratzentimeter haben sie?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
-      ],
+      "What was the name of Mr. Crouch's house elf?": [
+        "Winky",
+        "Blinky",
+        "Slinky",
+        "Dobby"
+      ]
     },
     {
-      'Der Klassiker aus dem Jahr 1964, Rudolph mit der roten Nase, wurde gedreht in? ': [
-        'Japan',
-        'USA',
-        'Finnland',
-        'Deutschland',
-        'Kanada',
-        'Norwegen',
-        'Frankreich',
-      ],
+      "Who is the teacher who Harry thinks is working with Voldemort?": [
+        "Snape",
+        "Quirrell",
+        "Sprout",
+        "McGonagall"
+      ]
     },
     {
-      'Um die Rentiere des Weihnachtsmanns kümmert sich eine der Weihnachtselfen, Wie heißt sie?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pfeffer Minstix',
-      ],
+      " Who taught History of Magic?": [
+        "Professor Binns",
+        "Professor Sinistra",
+        "Professor Flitwick",
+        "Professor Lupin"
+      ]
     },
     {
-      'Wenn alle Rentiere des Weihnachtsmanns Geweihe hätten, während sie seinen Weihnachtsschlitten ziehen, wären sie alle ': [
-        'Weiblich',
-        'Männlich',
-        'Weiblich und männlich',
-        'Kann man nicht sagen',
-      ],
+      "What happens to Professor Lockhart?": [
+        "He loses his memory",
+        "He dies",
+        "He runs away",
+        "He is fired"
+      ]
     },
     {
-      'Was essen Rentiere?': [
-        'Flechten',
-        'Gras',
-        'Blätter',
-        'Beeren',
-      ],
+      " In which year (1-7) did Harry go on his first date with Cho Chang?": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ]
     },
     {
-      'Welche Aussage ist nicht richtig?': [
-        'Karibus leben auf allen Kontinenten',
-        'Karibus und Rentiere gehören derselben Gattung an ',
-        'Karibus sind größer als Rentiere',
-        'Rentiere leben in Skandinavien und Russland',
-      ],
+      "What did Dumbledore leave to Ron in his will? ": [
+        "The Deluminator",
+        "Fawkes the Phoenix",
+        "The golden snitch",
+        "The Tales of Beedle the Bard"
+      ]
     },
     {
-      'In welchem Jahr kam Rudolph ins Fernsehen?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
+      "How old was Voldemort when he opened the Chamber of Secrets?": [
+        "16 years",
+        "17 years",
+        "18 years",
+        "21 years"
+      ]
     },
     {
-      'Wer war der Sprecher für Rudolph im klassischen Film aus dem Jahr 1964?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
+      "Who was the master of the Elder Wand prior to Harry?": [
+        "Draco Malfoy",
+        "Minerva McGonagall",
+        "Severus Snape",
+        "Lord Voldemort"
+      ]
     },
     {
-      'Welche Handelskette verwendete 1939 die Geschichte von Rudolph mit der roten Nase?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
+      "The group The Marauders were made up of Hogwarts students. Which of the options was James Potters nickname and Animagus form?": [
+        "Prongs, Stag",
+        "Potty, Llama",
+        "Hooves, Donkey",
+        "Moosey, Elk"
+      ]
     },
     {
-      'Wie hieß das Rentier des Weihnachtsmanns namens Donner ursprünglich?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
+      "Which of these options was Peter Pettigrews nickname and Animagus form?": [
+        "Wormtail, Rat",
+        "Spaghettiback, Mouse",
+        "Fur-ears, Bat",
+        "Smallsnout, Chinchilla"
+      ]
     },
     {
-      'Wer hat die Geschichte von Rudolph erfunden?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
+      "What colour are Harry Potters eyes?": ["Green", "Blue", "Black", "Brown"]
     },
     {
-      'Wo findest du keine Rentiere?': [
-        'Nordpol',
-        'Lappland',
-        'Korvatunturi Berge',
-        'Finnland',
-      ],
+      "What was Remus Lupins nickname and Animagus form?": [
+        "Moony, Werewolf",
+        "Howly, Grey Wolf",
+        "Moony, Grey Wolf",
+        "Howly, Werewolf"
+      ]
     },
     {
-      'Warum können die Rentiere des Weihnachtsmanns fliegen?': [
-        'Magischer Staub der Rentiere',
-        'Fusion',
-        'Amanita muscaria',
-        'Elfen',
-      ],
+      "What is the name of Ron and Hermione's daughter?": [
+        "Rose",
+        "Lily",
+        "Cardi",
+        "Hugo"
+      ]
     },
     {
-      'Wieviele Rentierhufe gibt es hier einschließlich Rudolph?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
+      "What is the name of Ron and Hermione's son?": [
+        "Hugo",
+        "Ron Junior",
+        "Remus",
+        "Neville"
+      ]
     },
     {
-      'Der Weihnachtsmann hat nur ein weibliches Rentier, Wie heißt es?': [
-        'Blitzen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
+      "Which is the house ghost of Hufflepuff?": [
+        "The Fat Friar",
+        "The Bloody Baron",
+        "The Grey Lady",
+        "Nearly Headless Nick"
+      ]
     },
     {
-      'Wie war der Name des erzählenden Schneemanns im klassischen Film Rudolph mit der roten Nase aus dem Jahr 1964?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
+      "Which champion is the only one to die in the 1994-1995 Triwizard Tournament?": [
+        "Cedric Diggory",
+        "Harry Potter",
+        "Fleur Delacour",
+        "Viktor Krum"
+      ]
     },
     {
-      'Wie hieß der Vater von Rudolph?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
+      "Who was NOT a member of the 'Slug Club'?": [
+        "Ron",
+        "Harry",
+        "Hermione",
+        "Melinda"
+      ]
     },
     {
-      'Wie war der Name des Trainers der Rentierspiele im klassischen Film aus dem Jahr 1964?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
+      "Which type of magical creature carries Sirius Black away from Hogwarts?": [
+        "Hippogriff",
+        "Thestral",
+        "Unicorn",
+        "Dragon"
+      ]
     },
     {
-      'Wie war im klassichen Film aus 1964 der Name des Hirsches, mit dem sich Rudolph befreundete?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
+      "Which is NOT a shop in Diagon Alley?": [
+        "Honeydukes",
+        "Madam Malkin's Robes for All Occasions",
+        "Flourish & Blott's",
+        "Eeylops Owl Emporium"
+      ]
     },
     {
-      'Wie hat der Vater von Rudolph, Donner, im Film aus dem Jahr 1964 versucht, die Nase von Rudolph zu verbergen?': [
-        'Schwarzer Schlamm',
-        'Sack',
-        'Kissenbezug',
-        'Socke',
-      ],
+      "Which of the following is NOT a protection for the Philosopher's (Sorcerer's) Stone?": [
+        "Cornish Pixies",
+        "Wizard's Chess ",
+        "Devil's Snare",
+        "Mirror of Erised"
+      ]
     },
     {
-      'Was möchte die Misfit Elfe im Film aus dem Jahr 1964 werden anstatt eine Elfe für den Weihnachtsmann?': [
-        'Zahnarzt',
-        'Rentier',
-        'Spielzeugmacher',
-        'Kerzenmacher',
-      ],
+      "Which of the following was NOT a Death Eater?": [
+        "Bathilda Bagshot",
+        "Lucius Malfoy",
+        "Draco Malfoy",
+        "Bellatrix Lestrange"
+      ]
     },
     {
-      'Was war die einzige Schwäche von Bumble im Film aus dem Jahr 1964?': [
-        'Konnte nicht schwimmen',
-        'War immer hungrig',
-        'Zuckerstangen',
-        'Schielte',
-      ],
+      "How many broomsticks are flown in a full game of Quidditch?": [
+        "15",
+        "16",
+        "18",
+        "25"
+      ]
     },
     {
-      'Was sucht Yukon Cornelius in Wirklichkeit im Film aus dem Jahr 1964?': [
-        'Pfefferminz',
-        'Gold',
-        'Indien',
-        'Polarbären',
-      ],
+      "Which Polyjuice Potion ingredients must be acquired at the full moon?": [
+        "Fluxweed",
+        "Knotgrass",
+        "A bit of whoever you wish to turn into",
+        "Newt spleen"
+      ]
     },
     {
-      'Warum befindet sich der Zug im Film aus dem Jahr 1964 auf der Insel des fehlerhaften Spielzeugs?': [
-        'Viereckige Räder',
-        'Keine Dampfmaschine',
-        'Farbe stimmt nicht',
-        'Pfeift nicht',
-      ],
+      "Before using the Firebolt gifted to him in The Prisoner of Azkaban, Harry Potter flew on which of these broomstick models?": [
+        "Nimbus 2000",
+        "Cleansweep Eleven",
+        "Moontrimmer",
+        "Thunderbolt VII"
+      ]
     },
     {
-      'Wie lautet der Name des Schachtelmännchens im Film aus dem Jahr 1964?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
+      "The Goblins of Gringotts Wizarding Bank navigate the vaults of their establishment using which of these modes of transportation?": [
+        "Mine cart",
+        "Elevator",
+        "Magic carpet",
+        "Monorail"
+      ]
     },
     {
-      'Warum hat der Weihnachtsmann im Film aus dem Jahr 1964 Weihnachten beinahe abgesagt?': [
-        'Sturm',
-        'Kein Schnee',
-        'Kein Spielzeug',
-        'Die Rentiere waren krank',
-      ],
+      "What person from the Wizarding World does Harry discover living just down the road?": [
+        "Mrs. Figg",
+        "Tonks",
+        "Filch",
+        "Susan Bones"
+      ]
     },
     {
-      'Welches tierische Geräusch machte die Elfe im Film aus dem Jahr 1964, um den Bumble abzulenken?': [
-        'Oink',
-        'Knurr',
-        'Wauwau',
-        'Miau',
-      ],
+      "Floo Powder, as a substance, allows users to travel by which means (as seen in The Chamber of Secrets)?": [
+        "Through fireplaces",
+        "Inside animals",
+        "n the wind",
+        "Through the sewers"
+      ]
     },
     {
-      'Wie lautet der Name des Goldsuchers im Film aus dem Jahr 1964?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
+      "Who or what attacks Ron in the Ministry of Magic?": [
+        "a brain",
+        "a Time-turner",
+        "Bellatrix",
+        "Dolohov"
+      ]
     },
     {
-      'Wie weit ziehen Rentiere auf ihren Wanderungen?': [
-        '4800 km',
-        '1100 km',
-        '800 km',
-        '0 km',
-      ],
+      "The Knight Bus, used by Harry in The Prisoner of Azkaban, contains how many levels?": [
+        "3",
+        "2",
+        "5",
+        "1"
+      ]
     },
     {
-      'Wie schnell läuft ein Rentier?': [
-        '77 km pro Stunde',
-        '27 km pro Stunde',
-        '30 km pro Stunde',
-        '22 km pro Stunde',
-        '83 km pro Stunde',
-        '65 km pro Stunde',
-      ],
-    },
-  ],
+      "Half eagle and half horse, what creature is ridden by Harry and Hermione in The Prisoner of Azkaban after saving its life?": [
+        "Hippogriff",
+        "Centaur",
+        "Dragon",
+        "Griffin"
+      ]
+    }
+  ]
 };
